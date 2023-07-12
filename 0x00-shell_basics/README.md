@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .). Use the long format.
+Move the file betty from /tmp/ to /tmp/my_first_directory.
